@@ -5,11 +5,11 @@ This project uses the Credit dataset to predict whether a customer is a **good o
 ##  What Was Done
 
 - Data cleaning and preprocessing  
-- Univariate analysis (feature impact on the target)  
 - Logistic Regression model  
+- Univariate analysis 
+- Model evaluation for Logistic Regression  
 - Random Forest model  
-- Hyperparameter tuning for Random Forest using **Optuna**  
-- Model evaluation and comparison
+- Hyperparameter tuning for Random Forest using Optuna  
 
 
 ##  Files
